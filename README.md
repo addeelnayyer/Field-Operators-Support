@@ -12,7 +12,7 @@ We've put together a list of frequently asked questions to help you troubleshoot
 
 ## Contact Us
 
-If you need further assistance, please feel free to contact our support team at support@myapp.com or call us at 1-800-555-5555. Our support team is available Monday through Friday, 9am to 5pm EST.
+If you need further assistance, please feel free to contact our support team at developer@aquila360.com or call us at 92-321-750-2323. Our support team is available Monday through Friday, 9am to 5pm EST.
 
 ## Community Forum
 
